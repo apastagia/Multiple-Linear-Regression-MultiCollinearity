@@ -27,3 +27,4 @@ MultiColinearity: How independent variables(features) are co-related with each o
 * In Multiple Linear Regression,
 ![MLR](https://user-images.githubusercontent.com/62986688/114811482-cdb44f00-9dcb-11eb-90ab-e286c6782d94.png)
 
+X1, X2, X3.... are different features. By calculating co-efficient we can findout how each feature correlated with each other. If they are highly correlated then discard one of them and use only one feature.
